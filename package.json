@@ -1,7 +1,7 @@
 {
   "name": "work_logger",
   "productName": "WorkLogger",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "RedFox Development product - Keep track of your work and build timesheet at the end of period.",
   "scripts": {
     "build": "concurrently \"yarn build-main\" \"yarn build-renderer\"",
